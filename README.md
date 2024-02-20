@@ -1,21 +1,19 @@
-# coacf426f8a27fa6f4f3738c5
+# Lead Saver
 
-Quick start:
+## Description
+Exercise in HTML, CSS and JavaScript. Functionality to increase each team with 1, 2 or 3 points at a time.
 
-```
-$ npm install
-$ npm start
-````
+<br/>
+<img src="chrome-extension.png" alt="Screenshot." width="400px"/>
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Chrome Extension
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Live link
+The website is deployed here:
+[https://toms-scoreboard.netlify.app](https://toms-scoreboard.netlify.app)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Please feel free to visit!
