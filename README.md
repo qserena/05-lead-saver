@@ -1,7 +1,7 @@
 # Lead Saver
 
 ## Description
-Exercise in HTML, CSS and JavaScript. Functionality to increase each team with 1, 2 or 3 points at a time.
+A small application in which you can save the current URL in the browser to a list. It can be added as a Chrome Extension to be used as shown below.
 
 <br/>
 <img src="chrome-extension.png" alt="Screenshot." width="400px"/>
@@ -12,8 +12,8 @@ Exercise in HTML, CSS and JavaScript. Functionality to increase each team with 1
 - JavaScript
 - Chrome Extension
 
-## Live link
-The website is deployed here:
-[https://toms-scoreboard.netlify.app](https://toms-scoreboard.netlify.app)
-
-Please feel free to visit!
+## Add as Chrome Extension
+1. Open Google Chrome and go to [chrome://extensions/](chrome://extensions/)
+2. Turn on the Developer Mode switch
+3. Click button "Load Unpacked" and select the main folder of this repo (05-lead-saver)
+4. Open a new Google Chrome window and select extension "Lead Saver" - And use it!
